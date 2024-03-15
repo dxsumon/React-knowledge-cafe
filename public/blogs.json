@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "blog-cover": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "blog-title": "The Art of Cooking: A Culinary Journey",
+      "author-img": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "author-name": "Alice Smith",
+      "submit-date": "2024-03-15",
+      "reading-time": 12,
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": 2,
+      "blog-cover": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "blog-title": "Exploring the Wilderness: A Backpacker's Tale",
+      "author-img": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "author-name": "Bob Johnson",
+      "submit-date": "2024-03-14",
+      "reading-time": 8,
+      "hashtags": ["travel", "adventure", "hiking"]
+    },
+    {
+      "id": 3,
+      "blog-cover": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "blog-title": "Mastering the Art of Photography: Tips and Tricks",
+      "author-img": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "author-name": "Charlie Brown",
+      "submit-date": "2024-03-13",
+      "reading-time": 15,
+      "hashtags": ["photography", "tips", "art"]
+    },
+    {
+      "id": 4,
+      "blog-cover": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "blog-title": "The Science of Space: Exploring the Cosmos",
+      "author-img": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "author-name": "Diana Evans",
+      "submit-date": "2024-03-12",
+      "reading-time": 10,
+      "hashtags": ["space", "science", "cosmos"]
+    },
+    {
+      "id": 5,
+      "blog-cover": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "blog-title": "Fitness Fundamentals: A Beginner's Guide to Exercise",
+      "author-img": "https://i.ibb.co/qWJHvBy/blogs.jpg",
+      "author-name": "Eva Green",
+      "submit-date": "2024-03-11",
+      "reading-time": 7,
+      "hashtags": ["fitness", "exercise", "health"]
+    }
+  ]
+  
